@@ -2,7 +2,7 @@
 name: 'go-cross-build'
 
 # action author
-author: 'Uday Hiwarale <thatisuday@gmail.com>'
+author: 'shoryasaxena97@gmail.com'
 
 # action description
 description: 'Generates cross-platform executable files from a Go module.'
